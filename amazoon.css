@@ -1,0 +1,25 @@
+#navbar{
+    width: 307.48px;
+    height: 60px;
+    border: 2px solid black ;
+    background-color: #0F1111;
+    display: flex;
+}
+#logo{
+    width: 97px;
+    height: 30px;
+    margin: 1px;
+    padding: 1px 8px 0 6px;
+    margin-top: 23px;
+}
+#loco{
+    color: #d6d6d6;
+    background-color: white;
+    height: 16px;
+    margin-top: 32px;
+}
+#location{
+    color: #d6d6d6;
+    margin: 5px 2px 5px 0;
+    padding: 9px 9px 0 9px;
+}
